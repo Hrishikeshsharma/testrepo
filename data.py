@@ -1,4 +1,3 @@
-import pandas as pd
-a = pd.read_csv('sample.csv')
-print(a)
-print('its working')
+a = [2, 4, 6, 8, 10]
+for x, y in enumerate(10):
+    print()
